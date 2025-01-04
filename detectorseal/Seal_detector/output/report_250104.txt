@@ -1,0 +1,10 @@
+Seals_Testing_0001.jpg found seal
+Seals_Testing_0002.jpg found seal
+Seals_Testing_0003.jpg found seal
+Seals_Testing_0004.jpg found seal
+Seals_Testing_0005.jpg not found seal
+Seals_Testing_0006.jpg found seal
+Seals_Testing_0007.jpg found seal
+Seals_Testing_0008.jpg found seal
+Seals_Testing_0009.jpg found seal
+Seals_Testing_0010.jpg not found seal

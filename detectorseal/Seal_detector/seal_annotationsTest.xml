@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='Seals\Seals_0001.jpg'>
+  </image>
+  <image file='Seals\Seals_0002.jpg'>
+  </image>
+  <image file='Seals\Seals_0003.jpg'>
+  </image>
+  <image file='Seals\Seals_0004.jpg'>
+  </image>
+  <image file='Seals\Seals_0005.jpg'>
+  </image>
+  <image file='Seals\Seals_0006.jpg'>
+  </image>
+  <image file='Seals\Seals_0007.jpg'>
+  </image>
+  <image file='Seals\Seals_0008.jpg'>
+  </image>
+  <image file='Seals\Seals_0009.jpg'>
+  </image>
+  <image file='Seals\Seals_0010.jpg'>
+  </image>
+  <image file='Seals\Seals_0011.jpg'>
+  </image>
+  <image file='Seals\Seals_0012.jpg'>
+  </image>
+  <image file='Seals\Seals_0013.jpg'>
+  </image>
+  <image file='Seals\Seals_0014.jpg'>
+  </image>
+  <image file='Seals\Seals_0015.jpg'>
+  </image>
+  <image file='Seals\Seals_0016.jpg'>
+  </image>
+  <image file='Seals\Seals_0017.jpg'>
+  </image>
+  <image file='Seals\Seals_0018.jpg'>
+  </image>
+  <image file='Seals\Seals_0019.jpg'>
+  </image>
+  <image file='Seals\Seals_0020.jpg'>
+  </image>
+  <image file='Seals\Seals_0021.jpg'>
+  </image>
+  <image file='Seals\Seals_0022.jpg'>
+  </image>
+  <image file='Seals\Seals_0023.jpg'>
+  </image>
+  <image file='Seals\Seals_0024.jpg'>
+  </image>
+  <image file='Seals\Seals_0025.jpg'>
+  </image>
+  <image file='Seals\Seals_0026.jpg'>
+  </image>
+  <image file='Seals\Seals_0027.jpg'>
+  </image>
+  <image file='Seals\Seals_0028.jpg'>
+  </image>
+  <image file='Seals\Seals_0029.png'>
+  </image>
+</images>
+</dataset>

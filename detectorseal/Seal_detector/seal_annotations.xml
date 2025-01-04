@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='Seals\Seals_0001.jpg' width='1040' height='1435'>
+    <box top='1296' left='304' width='91' height='106'/>
+  </image>
+  <image file='Seals\Seals_0002.jpg' width='1103' height='710'>
+    <box top='467' left='229' width='90' height='107'/>
+  </image>
+  <image file='Seals\Seals_0005.jpg' width='428' height='375'>
+    <box top='161' left='188' width='90' height='94'/>
+  </image>
+  <image file='Seals\Seals_0006.jpg' width='1002' height='1468'>
+    <box top='870' left='243' width='86' height='90'/>
+  </image>
+  <image file='Seals\Seals_0007.jpg' width='964' height='1436'>
+    <box top='312' left='194' width='91' height='105'/>
+  </image>
+  <image file='Seals\Seals_0008.jpg' width='793' height='586'>
+    <box top='377' left='388' width='84' height='100'/>
+  </image>
+  <image file='Seals\Seals_0009.jpg' width='1073' height='1486'>
+    <box top='611' left='111' width='87' height='97'/>
+  </image>
+  <image file='Seals\Seals_0010.jpg' width='1004' height='1387'>
+    <box top='1089' left='243' width='86' height='107'/>
+  </image>
+  <image file='Seals\Seals_0011.jpg' width='464' height='315'>
+    <box top='91' left='247' width='81' height='97'/>
+  </image>
+  <image file='Seals\Seals_0012.jpg' width='1092' height='1303'>
+    <box top='630' left='469' width='90' height='114'/>
+  </image>
+  <image file='Seals\Seals_0013.jpg' width='1036' height='1490'>
+    <box top='1064' left='603' width='88' height='119'/>
+  </image>
+  <image file='Seals\Seals_0014.jpg' width='1019' height='1492'>
+    <box top='1129' left='626' width='87' height='108'/>
+  </image>
+  <image file='Seals\Seals_0015.jpg' width='1125' height='1516'>
+    <box top='1212' left='539' width='82' height='111'/>
+  </image>
+  <image file='Seals\Seals_0016.jpg' width='792' height='347'>
+    <box top='93' left='337' width='83' height='100'/>
+  </image>
+  <image file='Seals\Seals_0017.jpg' width='811' height='1077'>
+    <box top='871' left='392' width='86' height='111'/>
+  </image>
+  <image file='Seals\Seals_0018.jpg' width='1076' height='1522'>
+    <box top='498' left='320' width='77' height='105'/>
+  </image>
+  <image file='Seals\Seals_0019.jpg' width='632' height='322'>
+    <box top='207' left='360' width='78' height='105'/>
+  </image>
+  <image file='Seals\Seals_0020.jpg' width='580' height='256'>
+    <box top='116' left='340' width='66' height='77'/>
+  </image>
+  <image file='Seals\Seals_0021.jpg' width='528' height='276'>
+    <box top='116' left='308' width='65' height='83'/>
+  </image>
+  <image file='Seals\Seals_0022.jpg' width='343' height='794'>
+    <box top='697' left='227' width='61' height='79'/>
+  </image>
+  <image file='Seals\Seals_0023.jpg' width='77' height='102'>
+    <box top='3' left='3' width='70' height='94'/>
+  </image>
+  <image file='Seals\Seals_0024.jpg' width='76' height='102'>
+    <box top='1' left='3' width='70' height='94'/>
+  </image>
+  <image file='Seals\Seals_0025.jpg' width='76' height='106'>
+    <box top='1' left='1' width='75' height='99'/>
+  </image>
+</images>
+</dataset>
