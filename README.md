@@ -1,5 +1,3 @@
-以下是根據您提供的內容生成的 GitHub README.md 文件排版：
-
 # iso_seal
 
 印鑑識別作業
